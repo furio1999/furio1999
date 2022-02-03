@@ -6,7 +6,7 @@
 * 🤖 Artificial Intelligence and Robotics student at Sapienza University of Rome (Italy).
 * 🥽 I want to give my contribution to the world of research. I love dealing with SLAM, Computer Vision, and a lot of Math!
 * 🧠 Ok there is something more, I am developing an interest in Neuroscience and Machine Learning for health and sport activities!
-* 🙏 I am part of a big family, namely [LeadTheFutureMentorship] (https://leadthefuture.tech/?v=cd32106bcb6d). We help young, emerging italian students to take their best career path. I am happy to be part of this talent network, and to give back!
+* 🙏 I am part of a big family, namely [Lead TheFutureMentorship] (https://leadthefuture.tech/?v=cd32106bcb6d). We help young, emerging italian students to take their best career path. I am happy to be part of this talent network, and to give back!
 
 I don't set limits; I don't quantify exactly my future goals. Too high means failure. Too low means mediocrity. Instead, I set for the direction.
 **Day by day is the key, for me**. <br/>
