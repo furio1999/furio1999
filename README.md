@@ -28,7 +28,7 @@ For me, the game has just started!
 I am a fan of an old latin motto: *mens sana in corpore sano* <br/>
 In my free time, I enjoy pursuing a career as a professional athlete!
 
----
+-
 
 I am joking of course 😉
 In general, I love doing this: 🏊  🚲  🏃‍♂️,  actually I am looking also for new adventures ⛰️ on the mountain trails near home! <br/>
