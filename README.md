@@ -31,7 +31,7 @@ In my free time, I enjoy pursuing a career as a professional athlete!
 ---
 
 I am joking of course 😉
-In general, I love doing this: 🏊 🚲 🏃‍♂️, actually I am looking also for new adventures on the mountain ⛰️ trails near home!
+In general, I love doing this: 🏊 🚲 🏃‍♂️, actually I am looking also for new adventures ⛰️ on the mountain trails near home! <br/>
 If you reeally like to have a look, go 👉 to my [strava](www.strava.com/athletes/34389247)
 
 Ok, now back to engineering stuff!! Enjoy! 😃
