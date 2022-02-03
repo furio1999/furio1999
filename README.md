@@ -9,10 +9,10 @@
 * 🙏 I am part of a big family, namely [![LeadTheFutureMentorship]https://leadthefuture.tech/?v=cd32106bcb6d]. We help young, emerging italian students to take their best career path. I am happy to be part of this talent network, and to give back!
 
 I don't set limits; I don't quantify exactly my future goals. Too high means failure. Too low means mediocrity. Instead, I set for the direction.
-**Day by day is the key, for me**. 
-My direction is studying hard and get passionate about the topics I cover. 
-My direction is working side my side with other brilliant minds in my field. 
-My direction is enjoyng the process, not the finish line 🏁. When you see the checkered flag, it's the end of the game. 
+**Day by day is the key, for me**. <br/>
+My direction is studying hard and get passionate about the topics I cover. <br/>
+My direction is working side my side with other brilliant minds in my field. <br/>
+My direction is enjoyng the process, not the finish line 🏁. When you see the checkered flag, it's the end of the game. <br/>
 For me, the game has just started! 
 
 # Where you can find me #
