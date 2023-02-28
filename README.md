@@ -3,9 +3,9 @@
 
 
 
-* 🤖 Artificial Intelligence and Robotics student at Sapienza University of Rome (Italy).
-* 🥽 I want to give my contribution to the world of research. I love dealing with SLAM, Computer Vision, and a lot of Math!
-* 🧠 Ok there is something more, I am developing an interest in Neuroscience and Machine Learning for health and sport activities!
+* 🤖 Artificial Intelligence and Robotics student at [Sapienza University of Rome (Italy)](https://corsidilaurea.uniroma1.it/en/corso/2021/30431/home).
+* 🚀 Visiting Student at European Space Agency, [Φ-Lab](https://philab.esa.int/about/).
+* 🥽 I want to give my contribution to the world of research. I love 3D reconstruction and Generative AI applied to Earth Monitoring, Robot Navigation and Sport.
 * 🙏 I am part of a big family, namely [LeadTheFutureMentorship](https://leadthefuture.tech/?v=cd32106bcb6d). We help young, emerging italian students to take their best career path. I am happy to be part of this talent network, and to give back!
 
 I don't set limits; I don't quantify exactly my future goals. Too high means failure. Too low means mediocrity. Instead, I set for the direction.
