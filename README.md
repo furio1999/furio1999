@@ -15,6 +15,8 @@ My direction is working side my side with other brilliant minds in my field. <br
 My direction is enjoyng the process, not the finish line 🏁. When you see the checkered flag, it's the end of the game. <br/>
 For me, the game has just started! 
 
+**instinctus decernit, rationalitas sequitur**
+
 
 # Where you can find me #
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furio19/)
