@@ -3,8 +3,8 @@
 
 
 
-* 🤖 Artificial Intelligence and Robotics student at [Sapienza University of Rome (Italy)](https://corsidilaurea.uniroma1.it/en/corso/2021/30431/home).
-* 🚀 Visiting Student at European Space Agency, [Φ-Lab](https://philab.esa.int/about/).
+* 🤖 Graduated in Artificial Intelligence and Robotics at [Sapienza University of Rome (Italy)](https://corsidilaurea.uniroma1.it/en/corso/2021/30431/home).
+* 🚀 I have been a visiting student at European Space Agency, [Φ-Lab](https://philab.esa.int/about/).
 * 🥽 I want to give my contribution to the world of research. I love 3D reconstruction and Generative AI applied to Earth Monitoring, Robot Navigation and Sport.
 * 🙏 I am part of a big family, namely [LeadTheFutureMentorship](https://leadthefuture.tech/?v=cd32106bcb6d). We help young, emerging italian students to take their best career path. I am happy to be part of this talent network, and to give back!
 
